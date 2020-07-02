@@ -9,7 +9,7 @@
 	<artifactId>workflow-center</artifactId>
 	<description>工作流中心</description>
 	<properties>
-		<mysql-connector-java.version>5.1.45</mysql-connector-java.version>
+		<mysql-connector-java.version>8.0.16</mysql-connector-java.version>
 	</properties>
 
 <!--	<dependencies>
